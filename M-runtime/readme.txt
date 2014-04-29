@@ -1,5 +1,5 @@
 This repository contains the necessary files to allow ANTLR4 
-to have a M (or MUMPS) runtime for genereted grammars.
+to have a M (or MUMPS) runtime for generated grammars.
 
 There are other github repositories doing this for 
 other Programming Languges
